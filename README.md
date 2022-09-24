@@ -9,7 +9,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 
 ##
 ## Compatibility
-This EFI was created usuing the 10510Y version...it is assumed to be working with all other one mix 3 variants as well but testers are welcome
+This EFI was created usuing the 10510Y version...it is assumed to be working with all other variants as well but testers are welcome
 
 ## Full Instruction Guide
 
