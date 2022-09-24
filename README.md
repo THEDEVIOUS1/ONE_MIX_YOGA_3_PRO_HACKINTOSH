@@ -57,5 +57,5 @@ This EFI was created usuing the 10510Y version...it is assumed to be working wit
 
 ## Credits
 Special thanks to my Minibook bro [@Balopez](https://github.com/balopez83/One-Mix-3-Hackintosh) for all of his assistance <br>
-[Dortania's Hackintosh guide]((https://dortania.github.io/OpenCore-Install-Guide/) <br>
+[Dortania's Hackintosh guide](https://dortania.github.io/OpenCore-Install-Guide/) <br>
 [One-Netbook for making the great Yoga 3](https://www.1netbook.com/) <br>
