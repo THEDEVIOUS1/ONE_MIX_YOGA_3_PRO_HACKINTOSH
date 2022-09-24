@@ -42,11 +42,10 @@ This EFI was created usuing the 10510Y version...it is assumed to be working wit
 - FileVault Supported
 - Recovery Supported
 - Sleep Button Support
-- 
+
 ## Planned Features
 
 - Auto rotate screen
-- Additional resolutions for internal monitor
 
 ## What doesn't work
 
