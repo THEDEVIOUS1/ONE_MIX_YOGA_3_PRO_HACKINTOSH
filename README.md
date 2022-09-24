@@ -14,11 +14,10 @@ This EFI was created usuing the 10510Y version...it is assumed to be working wit
 ## Full Instruction Guide
 
 ### [Chapter 1) Quick Start Install](/1-QuickStart.md)
-### [Chapter 2) Changing the Display Orientation](/3-Orientation.md)
-### [Chapter 3) Enabling HiDPI Mode](/4-HiDPI.md)
-### [Chapter 4) Setting Resolutions Over 1080p](/6-1080p&up.md)
-### [Chapter 5) Booting Other OS's with OpenCore](/8-OtherOS&OC.md)
-### [Chapter 6) Other Operating Systems](/9-OtherOS.md)1
+### [Chapter 2) Changing the Display Orientation](/2-Orientation.md)
+### [Chapter 3) Enabling HiDPI Mode](/3-HiDPI.md)
+### [Chapter 4) Setting Resolutions Over 1080p](/4-1080p&up.md)
+### [Chapter 5) Booting Other OS's](/5-AlternativeOperatingSystems.md)
 
 
 ## What works 
