@@ -5,7 +5,7 @@ Full support for macOS 10.14.0 - 12.6.x (Only tested on Catalina & Monterey...No
 
 If you see anything that could be added or changed don't hesitate to make a pull request.
 
-![MacMix 3 Monterey](/MONTEREY.jpg)
+![MacMix 3 Monterey](/MONTEREY.png)
 
 ##
 ## Compatibility
