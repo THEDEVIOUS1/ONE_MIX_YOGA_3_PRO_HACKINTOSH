@@ -5,7 +5,7 @@ Full support for macOS 10.14.0 - 12.6.x (Only tested on Catalina & Monterey...No
 
 If you see anything that could be added or changed don't hesitate to make a pull request.
 
-![Catalina with working Graphics Acceleration](/images/Catalina.jpeg)
+![MacMix 3 Monterey](/MONTEREY.png)
 
 ##
 ## Compatibility
@@ -51,6 +51,12 @@ This EFI was created usuing the 10510Y version...it is assumed to be working wit
 - Fingerprint Sensor
 - Card Reader
 - Accelerometer
+
+## Known Issues (all intermittent)
+
+- Black Screen wake
+- Shut Down Reboot
+- Sleep button broken
 
 
 ## Credits
