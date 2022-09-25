@@ -23,9 +23,9 @@ This EFI was created usuing the 10510Y version...it is assumed to be working wit
 ## What works 
 
 - Graphic Acceleration (4K support still needs testing)
-- OpenCore Boot-Loader orientation corrected to landscape mode
+- OpenCore landscape mode
 - Bluetooth
-- Brightness(Both Buttons and slider are reversed u fortunately)
+- Brightness(Both Buttons and slider are reversed unfortunately)
 - Audio
 - Power Management
 - Battery 
