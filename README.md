@@ -22,7 +22,7 @@ This EFI was created usuing the 10510Y version...it is assumed to be working wit
 
 ## What works 
 
-- Graphic Acceleration (4K support still needs testing)
+- Graphic Acceleration including 4K support
 - OpenCore landscape mode
 - Bluetooth
 - Brightness(Both Buttons and slider are reversed unfortunately)
