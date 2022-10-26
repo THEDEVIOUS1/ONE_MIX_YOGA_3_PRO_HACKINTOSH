@@ -28,7 +28,7 @@ This EFI was created usuing the 10510Y version...it is assumed to be working wit
 - Brightness(Both Buttons and slider are reversed unfortunately)
 - Audio
 - Power Management
-- Battery 
+- Battery (status update may be delayed)
 - USB
 - Keyboard
 - Sleep / Wake
